@@ -14,11 +14,12 @@ O resistor de 120.0Ω e o voltímetro são meramente ilustrativos, servindo some
 
 Nome do componente | Especificações | Preço estimado |
 --- | --- | --- |
+Transformador | Razão 0.2; 24.0V | R$??.?? |
+Ponte retificadora | 800.0mA | R$??.?? |
+Capacitor eletrolítico | 470.0µF; 30.0V | R$??.?? |
 Resistor (LED) | 1.0kΩ | R$??.?? |
 Resistor (diodo zener) | 560.0Ω | R$??.?? |
 Resistor (potenciômetro) | 1.0kΩ | R$??.?? |
-Transformador | Razão 0.2; 24.0V | R$??.?? |
-Ponte retificadora | 800.0mA | R$??.?? |
 Diodo emissor de luz (LED) | 30.0mA; 30.0V | R$??.?? |
 Diodo zener | 30.0mA; 0.5W | R$??.?? |
 Potenciômetro | 2.2kΩ; 10.0V | R$??.?? |
