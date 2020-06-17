@@ -4,8 +4,3 @@
 
 ### Arquivos gerados pelo Falstad:
 
-http://tinyurl.com/y9ah7tg8
-
-[Diagrama](falstad-circuit-diagram.png)
-
-[Código](falstad-circuit-code.txt)
