@@ -5,7 +5,7 @@
 ### Arquivos gerados pelo Falstad:
 ![Diagrama](falstad-image.png)
 
-A aplicação do Falstad, em navegador de *internet*, utiliza um código textual para salvar e carregar seus circuitos. No caso desse projeto, tal código pode ser encontrado [aqui](falstad-code.txt). Para replicar o circuito, uma das alternativas é fazer o *download* deste arquivo; acessar o sítio *https://www.falstad.com/circuit/*; procurar por "Arquivo" no canto superior esquerdo; ir até *Abrir Arquivo...* e selecionar o arquivo baixado.
+A aplicação do Falstad, em navegador de *internet*, utiliza um código textual para salvar e carregar seus circuitos. No caso desse projeto, tal código pode ser encontrado [aqui](falstad-code.txt). Para replicar o circuito, uma das alternativas é copiar, para a área de transferência, todo o texto contido neste arquivo; acessar o sítio *https://www.falstad.com/circuit/*; procurar por "Arquivo" no canto superior esquerdo; ir até *Importar de Arquivo Texto...*; copiar o conteúdo para a caixa de texto originada e selecionar *OK*.
 
 ### Componentes eletrônicos utilizados
 
@@ -25,3 +25,10 @@ Diodo zener | 30.0mA; 0.5W | R$??.?? |
 Potenciômetro | 2.2kΩ; 10.0V | R$??.?? |
 Transistor NPN | 30.0mA; 30.0V | R$??.?? |
 
+### Arquivos esquemáticos: circuito isolado e placa de circuito impresso
+
+*Pendente...*
+
+### Apresentação
+
+*Pendente...*
