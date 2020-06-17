@@ -5,7 +5,7 @@
 ### Arquivos gerados pelo Falstad:
 ![Diagrama](falstad-image.png)
 
-A aplicação do Falstad, em navegador de *internet*, utiliza um código textual para salvar e carregar seus circuitos. No caso desse projeto, tal código pode ser encontrado [aqui](falstad-code.txt). Para replicar o circuito, uma das alternativas é copiar, para a área de transferência, todo o texto contido neste arquivo; acessar o sítio *https://www.falstad.com/circuit/*; procurar por "Arquivo" no canto superior esquerdo; ir até *Importar de Arquivo Texto...*; copiar o conteúdo para a caixa de texto originada e selecionar *OK*.
+A aplicação do Falstad, em navegador de *internet*, utiliza um código textual para salvar e carregar seus circuitos. No caso desse projeto, tal código pode ser encontrado [aqui](falstad-code.txt). Para replicar o circuito, uma das alternativas é copiar, para a área de transferência, todo o texto contido nesse arquivo; acessar o sítio *https://www.falstad.com/circuit/*; procurar por "Arquivo" no canto superior esquerdo; ir até *Importar de Arquivo Texto...*; copiar o conteúdo para a caixa originada e selecionar *OK*.
 
 ### Componentes eletrônicos utilizados
 
