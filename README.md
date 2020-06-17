@@ -1,6 +1,6 @@
 ## PROJETO FONTE DE TENSÃO
 
-  Trabalho desenvolvido para a disciplina de Eletrônica para Computação; curso regular de graduação em Bacharelado em Ciências de Computação — ICMC-USP. São responsáveis pelo seu desenvolvimento: João Lucas Rodrigues Constantino e Gabriel Zanotim Manhani. O projeto consiste na produção de uma fonte de tensão, cujo valor absoluto varia entre, aproximadamente, 3.25 e 12.25V.
+  Trabalho desenvolvido para a disciplina de Eletrônica para Computação; curso regular de graduação em Bacharelado em Ciências de Computação — ICMC-USP. São responsáveis pelo seu desenvolvimento: João Lucas Rodrigues Constantino e Gabriel Zanotim Manhani. O projeto consiste na produção de uma fonte de tensão elétrica, cujo valor absoluto varia entre, aproximadamente, 3.25 e 12.25V; ela opera com uma fonte de corrente alternada com frequência de 60.0Hz e tensão máxima igual a 127.0V.
 
 ### Arquivos gerados pelo Falstad:
 ![Diagrama](falstad-image.png)
