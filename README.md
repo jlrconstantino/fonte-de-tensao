@@ -5,4 +5,4 @@
 ### Arquivos gerados pelo Falstad:
 ![Diagrama](falstad-image.png)
 
-[Código](falstad-code.txt)
+[Código textual de replicação](falstad-code.txt)
