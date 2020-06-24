@@ -14,7 +14,7 @@ O resistor de 120.0Ω e o voltímetro são meramente ilustrativos, servindo some
 
 Nome do componente | Especificações | Preço estimado |
 --- | --- | --- |
-Transformador | Razão 0.2; 24.0V | R$??.?? |
+Transformador | Razão 1:5 ou 24.0V | R$??.?? |
 Ponte retificadora | 800.0mA | R$??.?? |
 Capacitor eletrolítico | 470.0µF; 30.0V | R$??.?? |
 Resistor (LED) | 1.0kΩ | R$??.?? |
