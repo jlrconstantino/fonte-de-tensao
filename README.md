@@ -14,16 +14,16 @@ O resistor de 120.0Ω e o voltímetro são meramente ilustrativos, servindo some
 
 Nome do componente | Especificações | Preço estimado |
 --- | --- | --- |
-Transformador | Razão 1:5 ou 24.0V | R$??.?? |
-Ponte retificadora | 800.0mA | R$??.?? |
-Capacitor eletrolítico | 470.0µF; 30.0V | R$??.?? |
-Resistor (LED) | 1.0kΩ | R$??.?? |
-Resistor (diodo zener) | 560.0Ω | R$??.?? |
-Resistor (potenciômetro) | 1.0kΩ | R$??.?? |
-Diodo emissor de luz (LED) | 30.0mA; 30.0V | R$??.?? |
-Diodo zener | 30.0mA; 0.5W | R$??.?? |
-Potenciômetro | 2.2kΩ; 10.0V | R$??.?? |
-Transistor NPN | 30.0mA; 30.0V | R$??.?? |
+Transformador | Razão 1:5 ou 24.0V; 200.0mA | R$23.99 |
+Ponte retificadora | 800.0mA | R$0,82 |
+Capacitor eletrolítico | 470.0µF; 30.0V | R$0,90 |
+Resistor (LED) | 1.0kΩ | R$0,12 |
+Resistor (diodo zener) | 560.0Ω | R$0,15 |
+Resistor (potenciômetro) | 1.0kΩ | R$0,12 |
+Diodo emissor de luz (LED) | 30.0mA; 30.0V | R$0,20 |
+Diodo zener | 30.0mA; 0.5W | R$0,60 |
+Potenciômetro | 2.2kΩ; 10.0V | R$2,20 |
+Transistor NPN | 30.0mA; 30.0V | R$0,24 |
 
 ### Arquivos esquemáticos: circuito isolado e placa de circuito impresso
 ![Circuito](eagle-sch-img.PNG)
