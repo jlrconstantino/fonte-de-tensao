@@ -28,6 +28,7 @@ Transistor NPN | 30.0mA; 30.0V | R$??.?? |
 ### Arquivos esquemáticos: circuito isolado e placa de circuito impresso
 ![Circuito](SCH.png)
 Os arquivos esquemáticos do *Eagle* são de extensões exclusivas à sua interpretação e, portanto, somente podem ser acessadas por meio de uma versão compatível desse programa. Acima, está uma imagem do resultado final acerca do esquema do circuito, e o arquivo correspondente pode ser obtido [aqui](fonte1.sch). Abaixo, está uma imagem do esquema da placa de circuito impresso, que representa as dimensões e disposições finais dos componentes e dos fios em uma placa desse tipo, cujo arquivo correspondente é obtível [aqui](fonte1.pcb).
+
 ![Placa](PCB.png)
 
 ### Apresentação
