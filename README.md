@@ -5,7 +5,7 @@ Trabalho desenvolvido para a disciplina de Eletrônica para Computação; curso 
 ### Arquivos de simulação pelo Falstad:
 ![Diagrama](falstad-anim.gif)
 
-O circuito pode ser acessado por meio do link *http://tinyurl.com/y85s4ls2*; caso esse não funcione, a aplicação do Falstad, em navegador de *internet*, utiliza um código textual para salvar e carregar seus circuitos. No caso desse projeto, tal código pode ser encontrado [aqui](falstad-code.txt). Para replicar o circuito, uma das alternativas é copiar, para a área de transferência, todo o texto contido nesse arquivo; acessar o sítio *https://www.falstad.com/circuit/*; procurar por "Arquivo" no canto superior esquerdo; ir até *Importar de Arquivo Texto...*; copiar o conteúdo para a caixa originada e selecionar *OK*.
+O circuito pode ser acessado por meio do link *http://tinyurl.com/y85s4ls2*; caso esse não funcione, a aplicação do *Falstad*, em navegador de *internet*, utiliza um código textual para salvar e carregar seus circuitos. No caso desse projeto, tal código pode ser encontrado [aqui](falstad-code.txt). Para replicar o circuito, uma das alternativas é copiar, para a área de transferência, todo o texto contido nesse arquivo; acessar o sítio *https://www.falstad.com/circuit/*; procurar por *Arquivo* no canto superior esquerdo; ir até *Importar de Arquivo Texto...*; copiar o conteúdo para a caixa originada e selecionar *OK*.
 
 ### Componentes eletrônicos utilizados
 
@@ -26,8 +26,11 @@ Potenciômetro | 2.2kΩ; 10.0V | R$??.?? |
 Transistor NPN | 30.0mA; 30.0V | R$??.?? |
 
 ### Arquivos esquemáticos: circuito isolado e placa de circuito impresso
+![Circuito](SCH.png)
 
-*Pendente...*
+Os arquivos esquemáticos do *Eagle* são de extensões exclusivas à sua interpretação e, portanto, somente podem ser acessadas por meio de uma versão compatível desse programa. Acima, está uma imagem do resultado final acerca do esquema do circuito, e o arquivo correspondente pode ser obtido [aqui](fonte1.sch). Abaixo, está uma imagem do esquema da placa de circuito impresso, que representa as dimensões e disposições finais dos componentes e dos fios em uma placa desse tipo, cujo arquivo correspondente é obtível [aqui](fonte1.pcb).
+
+![Placa](PCB.png)
 
 ### Apresentação
 
