@@ -34,7 +34,7 @@ Os arquivos esquemáticos do *Eagle* são de extensões exclusivas à sua interp
 
 ### Análise da funcionalidade e das especificações dos componentes
 
-Um vídeo explicativo está disponível, e pode ser acessado por meio do *link* *https://www.youtube.com/watch?v=DKq6uI3zoWM&feature=youtu.be*. Como já afirmado, o circuito opera com uma fonte de corrente alternada, cujas especificações são uma frequência de 60.0Hz e um módulo máximo de tensão elétrica igual a 127.0V, todavia, caso um transformador de voltagem dupla seja implementado, tal fonte pode passar a receber um módulo máximo de 220.0V.
+Um vídeo explicativo está disponível, e pode ser acessado por meio do *link* *https://youtu.be/DKq6uI3zoWM*. Como já afirmado, o circuito opera com uma fonte de corrente alternada, cujas especificações são uma frequência de 60.0Hz e um módulo máximo de tensão elétrica igual a 127.0V, todavia, caso um transformador de voltagem dupla seja implementado, tal fonte pode passar a receber um módulo máximo de 220.0V.
 
 O **transformador** reduz a oscilação de tensão elétrica, originalmente estimada entre 127.0V e -127.0V, para um intervalo entre 24.0V e -24.0V. Esse componente não integra a placa de circuito impresso, pois ocorre como adereço externo a ela, que se conecta diretamente ao cabeçalho de entrada. Portanto, a entrada de fato dessa placa se torna a entrada do transformador.
 
