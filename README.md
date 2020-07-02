@@ -4,7 +4,7 @@ Trabalho desenvolvido para a disciplina de Eletrônica para Computação; curso 
 
 ### Arquivos de simulação pelo Falstad:
 
-O circuito pode ser acessado por meio do link *http://tinyurl.com/y85s4ls2*; caso esse não funcione, a aplicação do *Falstad*, em navegador de *internet*, utiliza um código textual para salvar e carregar seus circuitos. No caso desse projeto, tal código pode ser encontrado [aqui](falstad-code.txt). Para replicar o circuito, uma das alternativas é copiar, para a área de transferência, todo o texto contido nesse arquivo; acessar o sítio *https://www.falstad.com/circuit/*; procurar por *Arquivo* no canto superior esquerdo; ir até *Importar de Arquivo Texto...*; copiar o conteúdo para a caixa originada e, enfim, selecionar *OK*.
+O circuito pode ser acessado por meio do link *http://tinyurl.com/y732pbrl*; caso esse não funcione, a aplicação do *Falstad*, em navegador de *internet*, utiliza um código textual para salvar e carregar seus circuitos. No caso desse projeto, tal código pode ser encontrado [aqui](falstad-code.txt). Para replicar o circuito, uma das alternativas é copiar, para a área de transferência, todo o texto contido nesse arquivo; acessar o sítio *https://www.falstad.com/circuit/*; procurar por *Arquivo* no canto superior esquerdo; ir até *Importar de Arquivo Texto...*; copiar o conteúdo para a caixa originada e, enfim, selecionar *OK*.
 
 ### Componentes eletrônicos utilizados
 
@@ -33,7 +33,7 @@ Os arquivos esquemáticos do *Eagle* são de extensões exclusivas à sua interp
 
 ### Análise da funcionalidade e das especificações dos componentes
 
-Um vídeo explicativo está disponível, e pode ser acessado por meio do *link* *https://youtu.be/DKq6uI3zoWM*. Como já afirmado, o circuito opera com uma fonte de corrente alternada, cujas especificações são uma frequência de 60.0Hz e um módulo máximo de tensão elétrica igual a 127.0V, todavia, caso um transformador de voltagem dupla seja implementado, tal fonte pode passar a receber um módulo máximo de 220.0V.
+Um vídeo explicativo está disponível, embora desatualizado, e pode ser acessado por meio do *link* *https://youtu.be/DKq6uI3zoWM*. Como já afirmado, o circuito opera com uma fonte de corrente alternada, cujas especificações são uma frequência de 60.0Hz e um módulo máximo de tensão elétrica igual a 127.0V, todavia, caso um transformador de voltagem dupla seja implementado, tal fonte pode passar a receber um módulo máximo de 220.0V.
 
 O **transformador** reduz a oscilação de tensão elétrica, originalmente estimada entre 127.0V e -127.0V, para um intervalo entre 24.0V e -24.0V, o que permite a utilização de componentes menos robustos no restante do circuito, os quais são relativamente mais baratos e dissipam menor quantia energética quando em operação. Esse componente não integra a placa de circuito impresso, pois ocorre como adereço externo a ela, que se conecta diretamente ao cabeçalho de entrada. Portanto, a entrada de fato dessa placa se torna a entrada do transformador.
 
