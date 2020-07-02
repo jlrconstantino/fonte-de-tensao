@@ -25,9 +25,11 @@ Potenciômetro | 5.0kΩ; 10.0V | R$? |
 Transistor NPN | 30.0mA; 30.0V | R$0,24 |
 
 ### Arquivos esquemáticos: circuito isolado e placa de circuito impresso
+![Esquema](eagle-sch-image.png)
 
 Os arquivos esquemáticos do *Eagle* são de extensões exclusivas à sua interpretação e, portanto, somente podem ser acessadas por meio de uma versão compatível desse programa. A saber, o sítio digital oficial desse *software* se encontra em *https://www.autodesk.com/products/eagle/*. Acima, está uma imagem da captura do resultado final do esquema do circuito, cujo arquivo correspondente, de extensão *.sch*, pode ser obtido [aqui](eagle-schematic-file.sch). Abaixo, há uma imagem do esquema da placa de circuito impresso, que representa as dimensões e disposições finais dos componentes e dos fios em uma placa desse tipo, cujo arquivo correspondente, de extensão *.brd*, é obtível por meio deste *[link](eagle-schematic-file.brd)*.
 
+![Placa](eagle-brd-image.png)
 
 ### Análise da funcionalidade e das especificações dos componentes
 
