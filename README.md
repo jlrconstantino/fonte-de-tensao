@@ -20,7 +20,7 @@ Capacitor eletrolítico | 470.0µF; 30.0V | R$0.90 |
 Resistor (LED) | 2.0kΩ | R$0.17 |
 Resistor (diodo zener) | 2.2KΩ | R$0.22 |
 Resistor (potenciômetro) | 2.2kΩ | R$0.22 |
-Diodo emissor de luz (LED) | 20.0mA; 5.0V | R$? |
+Diodo emissor de luz (LED) | 20.0mA; 2.0V | R$0.20 |
 Diodo zener | 30.0mA; 0.5W; z=13.0V | R$0.60 |
 Potenciômetro | 5.0kΩ; 10.0V | R$1.99 |
 Transistor NPN | 30.0mA; 30.0V | R$0.24 |
