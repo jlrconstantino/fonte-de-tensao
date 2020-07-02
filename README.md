@@ -5,7 +5,7 @@ Trabalho desenvolvido para a disciplina de Eletrônica para Computação; curso 
 ### Arquivos de simulação pelo Falstad:
 ![Diagrama](falstad-anim.gif)
 
-O circuito pode ser acessado por meio do link *http://tinyurl.com/y85s4ls2*; caso esse não funcione, a aplicação do *Falstad*, em navegador de *internet*, utiliza um código textual para salvar e carregar seus circuitos. No caso desse projeto, tal código pode ser encontrado [aqui](falstad-code.txt). Para replicar o circuito, uma das alternativas é copiar, para a área de transferência, todo o texto contido nesse arquivo; acessar o sítio *https://www.falstad.com/circuit/*; procurar por *Arquivo* no canto superior esquerdo; ir até *Importar de Arquivo Texto...*; copiar o conteúdo para a caixa originada e selecionar *OK*.
+O circuito pode ser acessado por meio do link *http://tinyurl.com/y85s4ls2*; caso esse não funcione, a aplicação do *Falstad*, em navegador de *internet*, utiliza um código textual para salvar e carregar seus circuitos. No caso desse projeto, tal código pode ser encontrado [aqui](falstad-code.txt). Para replicar o circuito, uma das alternativas é copiar, para a área de transferência, todo o texto contido nesse arquivo; acessar o sítio *https://www.falstad.com/circuit/*; procurar por *Arquivo* no canto superior esquerdo; ir até *Importar de Arquivo Texto...*; copiar o conteúdo para a caixa originada e, enfim, selecionar *OK*.
 
 ### Componentes eletrônicos utilizados
 
@@ -28,7 +28,7 @@ Transistor NPN | 30.0mA; 30.0V | R$0,24 |
 ### Arquivos esquemáticos: circuito isolado e placa de circuito impresso
 ![Circuito](eagle-sch-image.PNG)
 
-Os arquivos esquemáticos do *Eagle* são de extensões exclusivas à sua interpretação e, portanto, somente podem ser acessadas por meio de uma versão compatível desse programa. O sítio digital oficial desse *software* se encontra em *https://www.autodesk.com/products/eagle/*. Acima, está uma imagem da captura do resultado final do esquema do circuito, cujo arquivo correspondente, de extensão *.sch*, pode ser obtido [aqui](eagle-schematic-file.sch). Abaixo, há uma imagem do esquema da placa de circuito impresso, que representa as dimensões e disposições finais dos componentes e dos fios em uma placa desse tipo, cujo arquivo correspondente, de extensão *.brd*, é obtível por meio deste *[link](eagle-schematic-file.brd)*.
+Os arquivos esquemáticos do *Eagle* são de extensões exclusivas à sua interpretação e, portanto, somente podem ser acessadas por meio de uma versão compatível desse programa. A saber, o sítio digital oficial desse *software* se encontra em *https://www.autodesk.com/products/eagle/*. Acima, está uma imagem da captura do resultado final do esquema do circuito, cujo arquivo correspondente, de extensão *.sch*, pode ser obtido [aqui](eagle-schematic-file.sch). Abaixo, há uma imagem do esquema da placa de circuito impresso, que representa as dimensões e disposições finais dos componentes e dos fios em uma placa desse tipo, cujo arquivo correspondente, de extensão *.brd*, é obtível por meio deste *[link](eagle-schematic-file.brd)*.
 
 ![Placa](eagle-brd-image.PNG)
 
